@@ -8,8 +8,8 @@
 - 🖖 Fun fact: I like skateboarding, drawing, coffee and music!
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Luis Collymoore | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Luis Collymoore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
@@ -33,7 +33,7 @@
 </details>
 <br />
 
-[Spotify(https://https://spotify.lcollymoore.vercel.app/api/spotify)](https://open.spotify.com/user/luiscollymoore)
+[Spotify(https://https://spotify.lcollymoore.vercel.app/api/spotify)]({% https://open.spotify.com/user/luiscollymoore %})
 
 [twitter]: https://twitter.com/luiscollymoore
 [linkedin]: https://linkedin.com/in/lcollymoore
