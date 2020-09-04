@@ -33,7 +33,7 @@
 </details>
 <br />
 ## Spotify Playing 🎧
-[[Spotify](https://spotify.lcollymoore.vercel.app/api/spotify)](https://open.spotify.com/user/a0c587c0fbb64e518a769b295979c272)
+[Spotify](https://spotify.lcollymoore.vercel.app/api/spotify)](https://open.spotify.com/user/a0c587c0fbb64e518a769b295979c272)
 
 [twitter]: https://twitter.com/luiscollymoore
 [linkedin]: https://linkedin.com/in/lcollymoore
