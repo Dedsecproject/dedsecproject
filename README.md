@@ -33,7 +33,7 @@
 </details>
 <br />
 
-[<img src="https://spotify.lcollymoore.vercel.app/api/spotify-playing" alt="Spotify Now PLaying width="350" />](https://open.spotify.com/user/luiscollymoore)
+[![Spotify](https://https://spotify.lcollymoore.vercel.app/api/spotify)](https://open.spotify.com/user/luiscollymoore)
 
 [twitter]: https://twitter.com/luiscollymoore
 [linkedin]: https://linkedin.com/in/lcollymoore
