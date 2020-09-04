@@ -2,10 +2,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/luisCollymoore?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=luisCollymoore)
 
 ## I'm a Husband , Father x3, and a life-long learner!
--📖 I'm currently expanding my knowledge in Web Dev.
--📔 I'm currently learning also about Pen testing and security 🔐
--🤝🏼 I like collaborating with others i projects!
--🖖 Fun fact: I like skateboarding, drawing, coffee and music!
+- 📖 I'm currently expanding my knowledge in Web Dev.
+- 📔 I'm currently learning also about Pen testing and security 🔐
+- 🤝 I like collaborating with others i projects!
+- 🖖 Fun fact: I like skateboarding, drawing, coffee and music!
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
