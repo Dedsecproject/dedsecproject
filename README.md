@@ -28,8 +28,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="DedsecProject's Github Stats" src="https://
-https://github-readme-stats.lcollymoore.vercel.app/api?username=lcollymoore_icons=true&hide_border=true" />
+  <img align="left" alt="Luis Collymoore's Github Stats" src="https://github-readme-stats.lcollymoore.vercel.app//api?username=lcollymoore_icons=true&hide_border=true" />
 
 </details>
 <br />
