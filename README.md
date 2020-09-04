@@ -1,12 +1,12 @@
 ### Hi there, I'm Luis ✋
 
-##I'm a Husband , Father x3, and a life-long learner!
+## I'm a Husband , Father x3, and a life-long learner!
 -📖 I'm currently expanding my knowledge in Web Dev.
 -📔 I'm currently learning also about Pen testing and security 🔐
 -🤝🏼 I like collaborating with others i projects!
 -🖖 Fun fact: I like skateboarding, drawing, coffee and music!
 
-###Connect with me:
+### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
