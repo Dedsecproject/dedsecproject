@@ -33,7 +33,7 @@
 </details>
 <br />
 ## Spotify Playing 🎧
-[<img src="https://spotify.lcollymoore.vercel.app/api/spotify-playing" alt="Luis Collymoore Spotify Playing" width="350" />](https://open.spotify.com/user/a0c587c0fbb64e518a769b295979c272)
+[[<img src="https://spotify.lcollymoore.vercel.app/api/spotify-playing" alt="Luis Collymoore Spotify Playing" width="350" />](https://open.spotify.com/user/a0c587c0fbb64e518a769b295979c272)
 
 
 [twitter]: https://twitter.com/luiscollymoore
