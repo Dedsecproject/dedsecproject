@@ -27,7 +27,6 @@
 <br />
 
 
-[![Spotify](https://https://spotify.lcollymoore.vercel.app/api/spotify)]({% https://open.spotify.com/user/luiscollymoore %})
 
 [twitter]: https://twitter.com/luiscollymoore
 [linkedin]: https://linkedin.com/in/lcollymoore
