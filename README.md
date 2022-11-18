@@ -27,8 +27,7 @@
 ---
 <br />
 
-
-
 [twitter]: https://twitter.com/luiscollymoore
 [linkedin]: https://linkedin.com/in/lcollymoore
 [github]:https://github.com/Dedsecproject
+[![@dedseq's Holopin board](https://holopin.me/dedseq)](https://holopin.io/@dedseq)
