@@ -1,4 +1,4 @@
-Hi 👋 My name is Dedseq
+Hi 👋 I'm Dedseq
 =======================
 
 Web Developer
