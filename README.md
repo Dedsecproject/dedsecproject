@@ -10,7 +10,7 @@
 
 Web developer switching careers from Linux system administration to software development. Learning in public and building real projects along the way — with a systems background that keeps fundamentals like networking, scripting, and infrastructure firmly in reach.
 
-- ✉️ [dedseq@proton.me](mailto:dedseq@proton.me)
+- ✉️ [retr0@dedseq.com](mailto:retr0@dedseq.com)
 - 🤝 Open to collaborating on interesting projects
 
 ---
